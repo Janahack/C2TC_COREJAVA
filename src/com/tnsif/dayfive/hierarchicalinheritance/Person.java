@@ -1,6 +1,6 @@
 package com.tnsif.dayfive.hierarchicalinheritance;
 
-public class Person {jana
+public class Person {
 		private String name; 
 		private String city; 
 		public Person() { 

@@ -2,7 +2,6 @@ package com.tnsif.daytwo;
 
 public class NestedForLoopDemo {
 	 
-	public class NestedForLoopDemo { 
 	 public static void main(String[] args) { 
 	  // program to print the multiplication tables 
 
@@ -20,4 +19,3 @@ public class NestedForLoopDemo {
 	 
 	 } 
 	}
-}
